@@ -1,0 +1,19 @@
+{
+  "name": "bitecoin",
+  "version": "1.0.0",
+  "description": "Food Meets the BlockChain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewSiuyinTam/BiteCoin.git"
+  },
+  "author": "Andrew Tam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewSiuyinTam/BiteCoin/issues"
+  },
+  "homepage": "https://github.com/AndrewSiuyinTam/BiteCoin#readme"
+}
