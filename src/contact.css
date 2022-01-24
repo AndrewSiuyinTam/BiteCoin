@@ -1,0 +1,24 @@
+#contact_title{
+    font-weight: bold;
+    
+}
+#phone_title{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+#phone_num{
+   
+    color: white;
+    text-align: center;
+}
+#email_title{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+#email{
+    
+    color: white;
+    text-align: center;
+}

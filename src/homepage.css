@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@700&family=Fira+Sans:wght@100&family=Playfair+Display:wght@500&family=The+Nautigal:wght@400;700&display=swap');
+body{
+    padding: 0;
+    margin: 0;
+    background: black;
+}
+header{
+    background: rgb(161, 119, 161);
+    max-height: 100px;
+    padding: 10px;
+    display: flex;
+}
+#restaraunt_name{
+    color: rgb(188, 206, 238);
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+}
+#logo{
+    height: 90px;
+    width: 90px;
+}
+
+#links{
+    display: flex;
+    margin-top: 5px;
+    gap: 15px;
+    list-style-type: none;
+}
+#home_link{
+    font-size: 25px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+#menu_link{
+    font-size: 25px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+#contact_link{
+    font-size: 25px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+#restaraunt_title{
+    color: white;
+    margin-top: 25px;
+    text-align: center;
+    text-shadow: 2px 2px #ff0000;
+    border: 2px solid white ;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 3px;
+    border-right: 3px;
+    
+}
+#grabber_paragraph{
+    text-align: center;
+    color: white;
+    font-size:22px;
+    
+   
+}
+.image_gallery{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    margin-top: 10px;
+}
+#sushi_img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+#burger_img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+#nft_img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
